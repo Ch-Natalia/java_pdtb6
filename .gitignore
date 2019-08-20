@@ -12,3 +12,4 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+sandbox/build/classes/java/main/ru/nc/pdtb6/sandbox/myfirstproject.class
