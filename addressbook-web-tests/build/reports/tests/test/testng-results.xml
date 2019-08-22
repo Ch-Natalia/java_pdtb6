@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="6595" started-at="2019-08-22T20:52:02Z" finished-at="2019-08-22T20:52:09Z">
+  <suite name="Gradle suite" duration-ms="6835" started-at="2019-08-22T21:13:29Z" finished-at="2019-08-22T21:13:35Z">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="6595" started-at="2019-08-22T20:52:02Z" finished-at="2019-08-22T20:52:09Z">
+    <test name="Gradle test" duration-ms="6835" started-at="2019-08-22T21:13:29Z" finished-at="2019-08-22T21:13:35Z">
       <class name="ru.nc.pdtb6.addressbook.GroupCreationTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="setUp" is-config="true" duration-ms="4227" started-at="2019-08-22T23:52:02Z" finished-at="2019-08-22T23:52:07Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="setUp" is-config="true" duration-ms="4434" started-at="2019-08-23T00:13:29Z" finished-at="2019-08-23T00:13:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testGroupCreation()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="testGroupCreation" duration-ms="1638" started-at="2019-08-22T23:52:07Z" finished-at="2019-08-22T23:52:08Z">
+        <test-method status="PASS" signature="testGroupCreation()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="testGroupCreation" duration-ms="1629" started-at="2019-08-23T00:13:33Z" finished-at="2019-08-23T00:13:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGroupCreation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="tearDown" is-config="true" duration-ms="713" started-at="2019-08-22T23:52:08Z" finished-at="2019-08-22T23:52:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="tearDown" is-config="true" duration-ms="750" started-at="2019-08-23T00:13:35Z" finished-at="2019-08-23T00:13:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
