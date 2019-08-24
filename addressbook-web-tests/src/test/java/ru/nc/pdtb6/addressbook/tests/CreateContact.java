@@ -1,10 +1,11 @@
-package ru.nc.pdtb6.addressbook;
+package ru.nc.pdtb6.addressbook.tests;
 
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 import org.openqa.selenium.*;
+import ru.nc.pdtb6.addressbook.model.ContactData;
 
 public class CreateContact {
   private WebDriver wd;

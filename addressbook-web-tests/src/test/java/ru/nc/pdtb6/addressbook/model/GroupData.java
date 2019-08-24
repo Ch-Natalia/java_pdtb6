@@ -1,4 +1,4 @@
-package ru.nc.pdtb6.addressbook;
+package ru.nc.pdtb6.addressbook.model;
 
 public class GroupData {
     private final String name;
