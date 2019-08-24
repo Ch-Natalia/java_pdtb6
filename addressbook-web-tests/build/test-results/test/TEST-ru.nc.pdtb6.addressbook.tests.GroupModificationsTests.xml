@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.nc.pdtb6.addressbook.tests.GroupModificationsTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-24T22:02:10" hostname="SPBNB-PRC1500" time="1.351">
-  <properties/>
-  <testcase name="testGroupModification" classname="ru.nc.pdtb6.addressbook.tests.GroupModificationsTests" time="1.351"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
