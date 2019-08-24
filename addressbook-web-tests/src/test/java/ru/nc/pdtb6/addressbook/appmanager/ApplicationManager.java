@@ -19,9 +19,10 @@ public class ApplicationManager {
                 "C:\\soft\\chromedriver_win32_76\\chromedriver.exe");
         wd = new ChromeDriver();
         wd.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        wd.get("http://localhost/addressbook");
         groupHelper = new GroupHelper(wd);
         navigationHelper = new NavigationHelper(wd);
-        sessionHelper = new SessionHelper(wd)
+        sessionHelper = new SessionHelper(wd);
         sessionHelper.login("admin", "secret");
     }
 

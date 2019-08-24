@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="5279" started-at="2019-08-24T19:55:37Z" finished-at="2019-08-24T19:55:42Z">
+  <suite name="Gradle suite" duration-ms="6051" started-at="2019-08-24T22:02:06Z" finished-at="2019-08-24T22:02:12Z">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="5279" started-at="2019-08-24T19:55:37Z" finished-at="2019-08-24T19:55:42Z">
-      <class name="ru.nc.pdtb6.addressbook.GroupDeletion">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupDeletion@b8fa834]" name="setUp" is-config="true" duration-ms="3936" started-at="2019-08-24T22:55:37Z" finished-at="2019-08-24T22:55:41Z">
+    <test name="Gradle test" duration-ms="6051" started-at="2019-08-24T22:02:06Z" finished-at="2019-08-24T22:02:12Z">
+      <class name="ru.nc.pdtb6.addressbook.tests.GroupModificationsTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@33d3ba24]" name="setUp" is-config="true" duration-ms="4014" started-at="2019-08-25T01:02:06Z" finished-at="2019-08-25T01:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testGroupDeletion()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupDeletion@b8fa834]" name="testGroupDeletion" duration-ms="629" started-at="2019-08-24T22:55:41Z" finished-at="2019-08-24T22:55:42Z">
+        <test-method status="PASS" signature="testGroupModification()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@33d3ba24]" name="testGroupModification" duration-ms="1351" started-at="2019-08-25T01:02:10Z" finished-at="2019-08-25T01:02:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGroupDeletion -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupDeletion@b8fa834]" name="tearDown" is-config="true" duration-ms="697" started-at="2019-08-24T22:55:42Z" finished-at="2019-08-24T22:55:42Z">
+        </test-method> <!-- testGroupModification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@33d3ba24]" name="tearDown" is-config="true" duration-ms="672" started-at="2019-08-25T01:02:11Z" finished-at="2019-08-25T01:02:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- ru.nc.pdtb6.addressbook.GroupDeletion -->
+      </class> <!-- ru.nc.pdtb6.addressbook.tests.GroupModificationsTests -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>
