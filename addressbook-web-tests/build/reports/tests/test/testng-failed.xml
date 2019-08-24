@@ -3,7 +3,7 @@
 <suite verbose="0" name="Failed suite [Gradle suite]">
   <test name="Gradle test" preserve-order="false">
     <classes>
-      <class name="ru.nc.pdtb6.addressbook.CreateContact"/>
+      <class name="ru.nc.pdtb6.addressbook.GroupDeletion"/>
     </classes>
   </test> <!-- Gradle test -->
 </suite> <!-- Failed suite [Gradle suite] -->
