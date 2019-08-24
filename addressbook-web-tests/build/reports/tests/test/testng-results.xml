@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="6835" started-at="2019-08-22T21:13:29Z" finished-at="2019-08-22T21:13:35Z">
+  <suite name="Gradle suite" duration-ms="7236" started-at="2019-08-24T18:30:34Z" finished-at="2019-08-24T18:30:41Z">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="6835" started-at="2019-08-22T21:13:29Z" finished-at="2019-08-22T21:13:35Z">
-      <class name="ru.nc.pdtb6.addressbook.GroupCreationTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="setUp" is-config="true" duration-ms="4434" started-at="2019-08-23T00:13:29Z" finished-at="2019-08-23T00:13:33Z">
+    <test name="Gradle test" duration-ms="7236" started-at="2019-08-24T18:30:34Z" finished-at="2019-08-24T18:30:41Z">
+      <class name="ru.nc.pdtb6.addressbook.CreateContact">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.CreateContact@2523242e]" name="setUp" is-config="true" duration-ms="4291" started-at="2019-08-24T21:30:34Z" finished-at="2019-08-24T21:30:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testGroupCreation()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="testGroupCreation" duration-ms="1629" started-at="2019-08-23T00:13:33Z" finished-at="2019-08-23T00:13:35Z">
+        <test-method status="PASS" signature="testCreateContact()[pri:0, instance:ru.nc.pdtb6.addressbook.CreateContact@2523242e]" name="testCreateContact" duration-ms="2227" started-at="2019-08-24T21:30:38Z" finished-at="2019-08-24T21:30:40Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGroupCreation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.GroupCreationTests@2523242e]" name="tearDown" is-config="true" duration-ms="750" started-at="2019-08-23T00:13:35Z" finished-at="2019-08-23T00:13:35Z">
+        </test-method> <!-- testCreateContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.CreateContact@2523242e]" name="tearDown" is-config="true" duration-ms="704" started-at="2019-08-24T21:30:40Z" finished-at="2019-08-24T21:30:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- ru.nc.pdtb6.addressbook.GroupCreationTests -->
+      </class> <!-- ru.nc.pdtb6.addressbook.CreateContact -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>
