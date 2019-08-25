@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.nc.pdtb6.sandbox.PointTest1" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-21T21:22:25" hostname="SPBNB-PRC1500" time="0.013">
-  <properties/>
-  <testcase name="testArea" classname="ru.nc.pdtb6.sandbox.PointTest1" time="0.013"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
