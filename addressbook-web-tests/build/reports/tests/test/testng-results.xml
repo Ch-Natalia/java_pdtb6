@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="9554" started-at="2019-08-25T14:48:58Z" finished-at="2019-08-25T14:49:07Z">
+  <suite name="Gradle suite" duration-ms="9339" started-at="2019-08-25T16:23:56Z" finished-at="2019-08-25T16:24:05Z">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="9554" started-at="2019-08-25T14:48:58Z" finished-at="2019-08-25T14:49:07Z">
+    <test name="Gradle test" duration-ms="9339" started-at="2019-08-25T16:23:56Z" finished-at="2019-08-25T16:24:05Z">
       <class name="ru.nc.pdtb6.addressbook.tests.GroupModificationsTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@28fde099]" name="setUp" is-config="true" duration-ms="5813" started-at="2019-08-25T17:48:58Z" finished-at="2019-08-25T17:49:04Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@33d3ba24]" name="setUp" is-config="true" duration-ms="5754" started-at="2019-08-25T19:23:56Z" finished-at="2019-08-25T19:24:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testGroupModification()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@28fde099]" name="testGroupModification" duration-ms="1831" started-at="2019-08-25T17:49:04Z" finished-at="2019-08-25T17:49:06Z">
+        <test-method status="PASS" signature="testGroupModification()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@33d3ba24]" name="testGroupModification" duration-ms="1698" started-at="2019-08-25T19:24:02Z" finished-at="2019-08-25T19:24:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGroupModification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@28fde099]" name="tearDown" is-config="true" duration-ms="1901" started-at="2019-08-25T17:49:06Z" finished-at="2019-08-25T17:49:07Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@33d3ba24]" name="tearDown" is-config="true" duration-ms="1874" started-at="2019-08-25T19:24:03Z" finished-at="2019-08-25T19:24:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
