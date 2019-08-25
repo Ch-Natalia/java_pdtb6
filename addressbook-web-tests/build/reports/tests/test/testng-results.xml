@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="5103" started-at="2019-08-24T23:04:13Z" finished-at="2019-08-24T23:04:18Z">
+  <suite name="Gradle suite" duration-ms="9554" started-at="2019-08-25T14:48:58Z" finished-at="2019-08-25T14:49:07Z">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="5103" started-at="2019-08-24T23:04:13Z" finished-at="2019-08-24T23:04:18Z">
-      <class name="ru.nc.pdtb6.addressbook.tests.ContactDeletionTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.ContactDeletionTests@33d3ba24]" name="setUp" is-config="true" duration-ms="3952" started-at="2019-08-25T02:04:13Z" finished-at="2019-08-25T02:04:17Z">
+    <test name="Gradle test" duration-ms="9554" started-at="2019-08-25T14:48:58Z" finished-at="2019-08-25T14:49:07Z">
+      <class name="ru.nc.pdtb6.addressbook.tests.GroupModificationsTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@28fde099]" name="setUp" is-config="true" duration-ms="5813" started-at="2019-08-25T17:48:58Z" finished-at="2019-08-25T17:49:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testContactDeletion()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.ContactDeletionTests@33d3ba24]" name="testContactDeletion" duration-ms="426" started-at="2019-08-25T02:04:17Z" finished-at="2019-08-25T02:04:18Z">
+        <test-method status="PASS" signature="testGroupModification()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@28fde099]" name="testGroupModification" duration-ms="1831" started-at="2019-08-25T17:49:04Z" finished-at="2019-08-25T17:49:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testContactDeletion -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.ContactDeletionTests@33d3ba24]" name="tearDown" is-config="true" duration-ms="713" started-at="2019-08-25T02:04:18Z" finished-at="2019-08-25T02:04:18Z">
+        </test-method> <!-- testGroupModification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.nc.pdtb6.addressbook.tests.GroupModificationsTests@28fde099]" name="tearDown" is-config="true" duration-ms="1901" started-at="2019-08-25T17:49:06Z" finished-at="2019-08-25T17:49:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- ru.nc.pdtb6.addressbook.tests.ContactDeletionTests -->
+      </class> <!-- ru.nc.pdtb6.addressbook.tests.GroupModificationsTests -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>

@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="29" started-at="2019-08-25T12:39:27Z" finished-at="2019-08-25T12:39:27Z">
+  <suite name="Gradle suite" duration-ms="52" started-at="2019-08-25T13:25:49Z" finished-at="2019-08-25T13:25:49Z">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="29" started-at="2019-08-25T12:39:27Z" finished-at="2019-08-25T12:39:27Z">
+    <test name="Gradle test" duration-ms="52" started-at="2019-08-25T13:25:49Z" finished-at="2019-08-25T13:25:49Z">
       <class name="ru.nc.pdtb6.sandbox.EquationTests">
-        <test-method status="PASS" signature="test0()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="test0" duration-ms="14" started-at="2019-08-25T15:39:27Z" finished-at="2019-08-25T15:39:27Z">
+        <test-method status="PASS" signature="test0()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="test0" duration-ms="12" started-at="2019-08-25T16:25:49Z" finished-at="2019-08-25T16:25:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test0 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="test1" duration-ms="0" started-at="2019-08-25T15:39:27Z" finished-at="2019-08-25T15:39:27Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="test1" duration-ms="1" started-at="2019-08-25T16:25:49Z" finished-at="2019-08-25T16:25:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="test2" duration-ms="1" started-at="2019-08-25T15:39:27Z" finished-at="2019-08-25T15:39:27Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="test2" duration-ms="0" started-at="2019-08-25T16:25:49Z" finished-at="2019-08-25T16:25:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testConstant()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="testConstant" duration-ms="0" started-at="2019-08-25T16:25:49Z" finished-at="2019-08-25T16:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConstant -->
+        <test-method status="PASS" signature="testLinear()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="testLinear" duration-ms="0" started-at="2019-08-25T16:25:49Z" finished-at="2019-08-25T16:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinear -->
+        <test-method status="PASS" signature="testZero()[pri:0, instance:ru.nc.pdtb6.sandbox.EquationTests@56d9d98e]" name="testZero" duration-ms="0" started-at="2019-08-25T16:25:49Z" finished-at="2019-08-25T16:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testZero -->
       </class> <!-- ru.nc.pdtb6.sandbox.EquationTests -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
