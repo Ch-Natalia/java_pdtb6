@@ -5,6 +5,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 import org.openqa.selenium.*;
+import ru.nc.pdtb6.addressbook.appmanager.ContactHelper;
 import ru.nc.pdtb6.addressbook.model.ContactData;
 
 public class CreateContact {
@@ -35,13 +36,13 @@ public class CreateContact {
   @Test
   public void testCreateContact() throws Exception {
     initContactCreation();
-    fillGroupForm(new ContactData("Alex", "Corn", "Secret", "11111111"));
+    fillContactForm(new ContactData("Alex", "Corn", "Secret", "11111111", "wer"));
     submitContactCreation();
     returnToMainPage();
     logout();
   }
 
-  private void fillGroupForm(ContactData contactData) {
+  private void fillContactForm(ContactData contactData) {
     wd.findElement(By.name("firstname")).click();
     wd.findElement(By.name("firstname")).clear();
     wd.findElement(By.name("firstname")).sendKeys(contactData.getFirstname());
